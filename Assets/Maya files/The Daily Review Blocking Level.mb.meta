@@ -1,0 +1,323 @@
+fileFormatVersion: 2
+guid: 651399b517b8c514aae6315f80cc7bc4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ambientLight1
+    100002: Blocking
+    100004: Elevators
+    100006: Elevators1
+    100008: Floor
+    100010: group2
+    100012: Human_806polys1:Mesh
+    100014: pCube10
+    100016: pCube12
+    100018: pCube13
+    100020: pCube14
+    100022: pCube15
+    100024: pCube16
+    100026: pCube17
+    100028: pCube20
+    100030: pCube24
+    100032: pCube25
+    100034: pCube26
+    100036: pCube27
+    100038: pCube28
+    100040: pCube29
+    100042: pCube30
+    100044: pCube31
+    100046: pCube32
+    100048: pCube33
+    100050: pCube34
+    100052: pCube35
+    100054: pCube36
+    100056: pCube37
+    100058: pCube40
+    100060: pCube40 1
+    100062: pCube44
+    100064: pCube44 1
+    100066: pCube45
+    100068: pCube45 1
+    100070: pCube46
+    100072: pCube46 1
+    100074: pCube47
+    100076: pCube50
+    100078: pCube51
+    100080: pCube52
+    100082: pCube53
+    100084: pCube54
+    100086: pCube55
+    100088: pCube8
+    100090: pCube9
+    100092: //RootNode
+    100094: typeMesh1
+    100096: Wall
+    100098: Walls
+    400000: ambientLight1
+    400002: Blocking
+    400004: Elevators
+    400006: Elevators1
+    400008: Floor
+    400010: group2
+    400012: Human_806polys1:Mesh
+    400014: pCube10
+    400016: pCube12
+    400018: pCube13
+    400020: pCube14
+    400022: pCube15
+    400024: pCube16
+    400026: pCube17
+    400028: pCube20
+    400030: pCube24
+    400032: pCube25
+    400034: pCube26
+    400036: pCube27
+    400038: pCube28
+    400040: pCube29
+    400042: pCube30
+    400044: pCube31
+    400046: pCube32
+    400048: pCube33
+    400050: pCube34
+    400052: pCube35
+    400054: pCube36
+    400056: pCube37
+    400058: pCube40
+    400060: pCube40 1
+    400062: pCube44
+    400064: pCube44 1
+    400066: pCube45
+    400068: pCube45 1
+    400070: pCube46
+    400072: pCube46 1
+    400074: pCube47
+    400076: pCube50
+    400078: pCube51
+    400080: pCube52
+    400082: pCube53
+    400084: pCube54
+    400086: pCube55
+    400088: pCube8
+    400090: pCube9
+    400092: //RootNode
+    400094: typeMesh1
+    400096: Wall
+    400098: Walls
+    2100000: lambert1
+    2100002: Player
+    2100004: Windows1
+    2100006: Windows
+    2100008: phongE1
+    2100010: typeBlinn
+    2300000: Floor
+    2300002: Human_806polys1:Mesh
+    2300004: pCube10
+    2300006: pCube12
+    2300008: pCube13
+    2300010: pCube14
+    2300012: pCube15
+    2300014: pCube16
+    2300016: pCube17
+    2300018: pCube20
+    2300020: pCube24
+    2300022: pCube25
+    2300024: pCube26
+    2300026: pCube27
+    2300028: pCube28
+    2300030: pCube29
+    2300032: pCube30
+    2300034: pCube31
+    2300036: pCube32
+    2300038: pCube33
+    2300040: pCube34
+    2300042: pCube35
+    2300044: pCube36
+    2300046: pCube37
+    2300048: pCube40
+    2300050: pCube40 1
+    2300052: pCube44
+    2300054: pCube44 1
+    2300056: pCube45
+    2300058: pCube45 1
+    2300060: pCube46
+    2300062: pCube46 1
+    2300064: pCube47
+    2300066: pCube50
+    2300068: pCube51
+    2300070: pCube52
+    2300072: pCube53
+    2300074: pCube54
+    2300076: pCube55
+    2300078: pCube8
+    2300080: pCube9
+    2300082: typeMesh1
+    2300084: Wall
+    3300000: Floor
+    3300002: Human_806polys1:Mesh
+    3300004: pCube10
+    3300006: pCube12
+    3300008: pCube13
+    3300010: pCube14
+    3300012: pCube15
+    3300014: pCube16
+    3300016: pCube17
+    3300018: pCube20
+    3300020: pCube24
+    3300022: pCube25
+    3300024: pCube26
+    3300026: pCube27
+    3300028: pCube28
+    3300030: pCube29
+    3300032: pCube30
+    3300034: pCube31
+    3300036: pCube32
+    3300038: pCube33
+    3300040: pCube34
+    3300042: pCube35
+    3300044: pCube36
+    3300046: pCube37
+    3300048: pCube40
+    3300050: pCube40 1
+    3300052: pCube44
+    3300054: pCube44 1
+    3300056: pCube45
+    3300058: pCube45 1
+    3300060: pCube46
+    3300062: pCube46 1
+    3300064: pCube47
+    3300066: pCube50
+    3300068: pCube51
+    3300070: pCube52
+    3300072: pCube53
+    3300074: pCube54
+    3300076: pCube55
+    3300078: pCube8
+    3300080: pCube9
+    3300082: typeMesh1
+    3300084: Wall
+    4300000: Floor
+    4300002: Human_806polys1:Mesh
+    4300004: Wall
+    4300006: pCube8
+    4300008: pCube33
+    4300010: pCube36
+    4300012: pCube32
+    4300014: pCube37
+    4300016: pCube34
+    4300018: pCube20
+    4300020: pCube24
+    4300022: pCube25
+    4300024: pCube27
+    4300026: pCube9
+    4300028: pCube31
+    4300030: pCube26
+    4300032: pCube30
+    4300034: pCube10
+    4300036: pCube47
+    4300038: pCube44
+    4300040: pCube46
+    4300042: pCube45
+    4300044: pCube40
+    4300046: pCube44
+    4300048: pCube46
+    4300050: pCube45
+    4300052: pCube40
+    4300054: pCube35
+    4300056: pCube16
+    4300058: pCube28
+    4300060: pCube29
+    4300062: pCube17
+    4300064: pCube12
+    4300066: pCube14
+    4300068: pCube15
+    4300070: pCube13
+    4300072: pCube53
+    4300074: pCube54
+    4300076: pCube51
+    4300078: pCube50
+    4300080: pCube52
+    4300082: typeMesh1
+    4300084: pCube55
+    10800000: ambientLight1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
